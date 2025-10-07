@@ -36,7 +36,7 @@ while True:
 
     # Salir del bucle si el usuario elige la opción 5
     if opcion == '5':
-        print("¡Hasta luego! 👋")
+        print("¡Adios! 👋")
         break
 
     # Validar que la opción sea una de las permitidas
